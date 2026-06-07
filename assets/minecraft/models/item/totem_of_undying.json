@@ -1,0 +1,18 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/totem_of_undying"
+	},
+	"display": {
+		"firstperson_righthand": {
+			"translation": [7.25, 0.5, -5.5],
+			"scale": [0.56, 0.56, 0.4]
+		},
+		"firstperson_lefthand": {
+			"translation": [7.25, 0.5, -5.5],
+			"scale": [0.56, 0.56, 0.4]
+		}
+	}
+}
